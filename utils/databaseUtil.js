@@ -14,7 +14,7 @@ const mongo = require("mongodb");
 const MongoClient = mongo.MongoClient;
 
 const MONGO_URL =
-  "mongodb+srv://root:root@aribnb.fej75.mongodb.net/?retryWrites=true&w=majority&appName=aribnb";
+  "mongodb+srv://root:****@aribnb.fej75.mongodb.net/?retryWrites=true&w=majority&appName=aribnb";
 
 let _db;
 

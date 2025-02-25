@@ -3,7 +3,7 @@
 // const pool = mysql.createPool({
 //   host: "localhost",
 //   user: "root",
-//   password: "Sanket234",
+//   password: "*******",
 //   database: "airbnb",
 // });
 
